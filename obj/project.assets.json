@@ -5761,19 +5761,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/luisdiego/.nuget/packages/": {}
+    "/Users/bryanreyes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/MovieLibraryA11/MovieLibraryA11.csproj",
+      "projectUniqueName": "/Users/bryanreyes/Documents/WCTC/FallTerm/NetDabase/MovieLibraryA11/MovieLibraryA11.csproj",
       "projectName": "MovieLibraryA11",
-      "projectPath": "/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/MovieLibraryA11/MovieLibraryA11.csproj",
-      "packagesPath": "/Users/luisdiego/.nuget/packages/",
-      "outputPath": "/Users/luisdiego/Documents/WCTC/SpringTerm2/NetDabase/MovieLibraryA11/obj/",
+      "projectPath": "/Users/bryanreyes/Documents/WCTC/FallTerm/NetDabase/MovieLibraryA11/MovieLibraryA11.csproj",
+      "packagesPath": "/Users/bryanreyes/.nuget/packages/",
+      "outputPath": "/Users/luisdiego/Documents/WCTC/FallTerm/NetDabase/MovieLibraryA11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luisdiego/.nuget/NuGet/NuGet.Config"
+        "/Users/bryanreyes/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
